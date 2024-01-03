@@ -1,5 +1,5 @@
-# My first Project  
-SpringBoot first API try , Basics of handling a request <br>
+# SpringBoot  
+SpringBoot first API try , Basics of handling a request <br><br>
 [First Project](<demo>)
 
 # Hibernate
